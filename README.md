@@ -17,8 +17,9 @@
 <h2>
   Hey there 👋
 </h2>
-
+<a href="https://aboutme-red.vercel.app/index.html">
 🧑‍💻 About Me :
+ </a>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi.
 
